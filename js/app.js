@@ -10,8 +10,8 @@
 // titulo.innerHTML='para pensar.html' 
 
 
-let lista=document.querySelector('.lista')
-console.log(lista)
+// let lista=document.querySelector('.lista')
+// console.log(lista)
 
 // let li = document.createElement('li')
 // li.innerHTML='OSTIA PUTA TIO QUE HE CREAO UN ELEMENTO DE UNA LISTA EN JAVASCRIPT OOO MA GA'
@@ -28,7 +28,7 @@ console.log(lista)
 
 
 
-const array=[prompt("ingresa el primer valor"),prompt("ingresa el segundo valor"),prompt("ingresa el tercer valor")]
+// const array=[prompt("ingresa el primer valor"),prompt("ingresa el segundo valor"),prompt("ingresa el tercer valor")]
 // array.forEach(item =>{
 //     console.log(item)
 //     const li=document.createElement('li')
@@ -38,8 +38,8 @@ const array=[prompt("ingresa el primer valor"),prompt("ingresa el segundo valor"
 
 
 
-array.forEach(item=>{
-    lista.innerHTML+=`<li>${item}</li>`
-})
+// array.forEach(item=>{
+//     lista.innerHTML+=`<li>${item}</li>`
+// })
 
 

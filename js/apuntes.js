@@ -1,0 +1,1 @@
+// .querySelectorAll: toma todos los elementos con la misma clase
